@@ -1,0 +1,26 @@
+# Installed packages
+fastapi
+uvicorn
+python-dotenv
+firebase-admin
+protobuf>=5.26.1,<6.0dev
+# LLM and Agent packages
+langchain-openai
+langchain-core
+langgraph
+jsonschema
+
+# JSON handling
+requests
+
+# Make sure numpy is explicitly listed
+numpy
+
+# Image processing
+imagehash
+PyWavelets
+
+
+python-multipart
+
+redis[asyncio]

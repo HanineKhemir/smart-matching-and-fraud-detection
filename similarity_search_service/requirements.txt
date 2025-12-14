@@ -1,0 +1,30 @@
+# Installed packages
+fastapi
+uvicorn
+torch
+torchvision
+faiss-cpu
+pillow
+python-dotenv
+git+https://github.com/openai/CLIP.git
+qdrant-client
+firebase-admin
+protobuf>=5.26.1,<6.0dev
+python-multipart
+
+
+# JSON handling
+requests
+
+# Make sure numpy is explicitly listed
+numpy
+
+# Image processing
+imagehash
+PyWavelets
+scipy
+
+neo4j
+
+
+
